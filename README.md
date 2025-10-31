@@ -5,5 +5,6 @@ The problem focuses on efficient sensor placement in smart city IoT networks, mo
 2.Randomized and Probabilistic Vertex Cover Algorithms\
 The Vertex Cover problem seeks the smallest set of vertices covering all edges and is NP-hard. The task is to design a randomized algorithm that repeatedly picks a random uncovered edge and adds one endpoint to the cover. Its performance is evaluated via multiple trials on random graphs, measuring average size, variance, and execution time, compared to deterministic methods, and extended for parallel execution on large networks.
 
-3.N-Queen Variation: Blocked Cells
+3.N-Queen Variation: Blocked Cells\
+The N-Queen problem is modified to include blocked cells where queens cannot be placed. The task is to find all valid arrangements of N queens on an N×N board, avoiding these blocked cells, and compare the number of solutions to the standard N-Queen problem.
 
